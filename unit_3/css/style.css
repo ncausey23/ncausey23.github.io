@@ -1,15 +1,63 @@
-h1 {
-  	text-align: center;
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: Helvetica;
+	text-align: center;
+}
+main{
+	color: #FFFFFF;
+	background-image: url(../images/sunsetsilhouette.jpeg);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+.hero-image{
+	background-image: url('images/sunsetsilhouette.jpeg')
+	background-color: #FFFFFF;
+	height: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
-body {
-  text-align: center;
-  background-image: url(sunsetsilhouette.jpeg);
-  background-size: cover;
-  color: #fff;
-  font-family: Helvetica;
+h1{
+	font-size: 30px;
 }
-hr {
-  width: 200px;
-  p {
-    font-size: 22px;
+h2{
+	font-size: 24px;
+}
+#slogan{
+	font-style: italic;
+}
+.button{
+	background-color: #FFFFFF;
+	text-align: center;
+	padding: 15px 25px;
+	display: block;
+	width: 50%;
+	margin: 5px;
+}
+nav{
+	display: flex;
+}
+p{
+	font-size: 16px;
+}
+ul, li{
+	display: inline-block;
+	text-align: center;
+}
+section{
+	background-color: #FFFFFF;
+	font: #222222;
+}
+footer{
+	background-color: #222222;
+	font: #FFFFFF;
+}
