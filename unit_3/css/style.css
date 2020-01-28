@@ -14,7 +14,7 @@ h3 {
   font-variant-caps: all-small-caps;
 }
 
-#register button {background-color:#ffe8a8;
+#register button {background-color:#000000;
                    color:black;
                    font-size: 20px;
                    padding: 8px 20px;
@@ -24,7 +24,7 @@ h3 {
            border-radius:2px;
            cursor:pointer;}
 .btn-group button{ background-color:transparent;
-                   color:#000;
+                   color:#000000;
                    font-size:1.2em;
                    font-weight: 700px;
                    border:0;
@@ -35,7 +35,7 @@ h3 {
                    cursor:pointer;
 }
 
-.btn-group button:hover{ color:#ffe8a8; }
+.btn-group button:hover{ color:#000000; }
 hr{width:80px;
    margin-bottom:0px;}
 p { font-size: 0.8em; }            
