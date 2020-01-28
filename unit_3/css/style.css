@@ -27,6 +27,8 @@ h2 {
                    float: center;
                    position: relative;
                    cursor:pointer;
+}
+
 .btn-group button:hover{ color:#ffe8a8; }
 hr{width:80px;
    margin-bottom:0px;}
