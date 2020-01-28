@@ -1,11 +1,17 @@
 h1 {
   	text-align: center;
   	font-weight: bold;
+    font-variant-caps: all-small-caps;
 }
 
 h2 {
 	text-align: center;
 	font-style: : italic;
+  font-variant-caps: all-small-caps;
+}
+h3 {
+  text-align: center;
+  font-variant-caps: all-small-caps;
 }
 
 #register button {background-color:#ffe8a8;
