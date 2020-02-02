@@ -24,6 +24,7 @@ h3 {
                    color:black;
                    font-family: 'Dancing Script', cursive;
                    font-size: 2em;
+                   font-weight: bold;
                    font-variant-caps: all-small-caps;
                    padding: 8px 20px;
                    margin: 50px;
@@ -35,6 +36,7 @@ h3 {
                    color:black;
                    font-family: 'Dancing Script', cursive;
                    font-size: 2em;
+                   font-weight: bold;
                    font-variant-caps: all-small-caps;
                    font-weight: 700px;
                    border:0;
