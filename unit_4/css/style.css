@@ -1,0 +1,62 @@
+h1 {
+  	font-family: 'Anton', sans-serif;
+    text-align: center;
+  	font-weight: bold;
+    font-variant-caps: all-small-caps;
+}
+
+h2 {
+	font-family: 'Anton', sans-serif;
+  text-align: center;
+	font-style: : italic;
+  font-variant-caps: all-small-caps;
+}
+h3 {
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  font-variant-caps: all-small-caps;
+}
+
+#register button {background-color:#000;
+                   font-family: 'Anton', sans-serif;
+                   color:black;
+                   font-size: 20px;
+                    font-variant-caps: all-small-caps;
+                   padding: 8px 20px;
+                   margin: 50px;
+                   float: center;
+                   position: relative;
+           border-radius:2px;
+           cursor:pointer;}
+.btn-group button{ background-color:transparent;
+                   color:#000;
+                   font-size:1.2em;
+                   font-weight: 700px;
+                   border:0;
+                   padding: 8px 20px;
+                   margin: 0px 80px;
+                   float: center;
+                   position: relative;
+                   cursor:pointer;
+}
+
+.btn-group button:hover{ color:#e3bc1b; }
+hr{width:80px;
+   margin-bottom:0px;}
+p { font-size: 0.8em; }            
+
+body {
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1567813923985-2071e2a0a0ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+hr {
+  width: 200px;
+ } 
+  p {
+    font-size: 12px;
+    font-style: italic;
+}
