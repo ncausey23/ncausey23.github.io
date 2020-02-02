@@ -29,6 +29,7 @@ h3 {
                    margin: 50px;
                    float: center;
                    position: relative;
+                   font-variant-caps: all-petite-caps;
            border-radius:2px;
            cursor:pointer;}
 .btn-group button{ background-color:transparent;
