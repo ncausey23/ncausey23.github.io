@@ -8,23 +8,24 @@ h1 {
 
 h2 {
 	font-style: 26px;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Dancing Script', cursive;
   text-align: center;
 	font-style: : italic;
   font-variant-caps: all-small-caps;
 }
 h3 {
+  margin: 2em;
   font-size: 20px;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Dancing Script', cursive;
   text-align: center;
   font-variant-caps: all-small-caps;
 }
 
 #register button {background-color:#000;
-                   font-family: 'Anton', sans-serif;
+                   font-family: 'Dancing Script', cursive;
                    color:black;
                    font-size: 20px;
-                    font-variant-caps: all-small-caps;
+                   font-variant-caps: all-small-caps;
                    padding: 8px 20px;
                    margin: 50px;
                    float: center;
