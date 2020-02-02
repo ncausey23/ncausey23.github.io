@@ -14,10 +14,10 @@ h2 {
   font-variant-caps: all-small-caps;
 }
 h3 {
+  font-family: 'Dancing Script', cursive;
   margin: 2em;
   font-size: 20px;
   text-align: center;
-  font-variant-caps: all-small-caps;
 }
 
 #register button {background-color:#000;
@@ -35,6 +35,7 @@ h3 {
                    color:black;
                    font-family: 'Dancing Script', cursive;
                    font-size:1.2em;
+                   font-variant-caps: all-small-caps;
                    font-weight: 700px;
                    border:0;
                    padding: 8px 20px;
