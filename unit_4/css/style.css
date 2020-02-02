@@ -1,5 +1,5 @@
 h1 {
-  	font-size: 40px; 
+  	font-size: 50px; 
     font-family: 'Dancing Script', cursive;
     text-align: center;
   	font-weight: bold;
@@ -23,7 +23,7 @@ h3 {
 #register button {background-color:#000;
                    color:black;
                    font-family: 'Dancing Script', cursive;
-                   font-size: 20px;
+                   font-size: .7em;
                    font-variant-caps: all-small-caps;
                    padding: 8px 20px;
                    margin: 50px;
@@ -34,7 +34,7 @@ h3 {
 .btn-group button{ background-color:transparent;
                    color:black;
                    font-family: 'Dancing Script', cursive;
-                   font-size:1.2em;
+                   font-size:.7em;
                    font-variant-caps: all-small-caps;
                    font-weight: 700px;
                    border:0;
