@@ -21,7 +21,7 @@ h3 {
 }
 
 #wrapper {
-	width: 1000px;
+	width: 800px;
 	margin: 0 auto;
 }
 
@@ -53,7 +53,7 @@ h3 {
 }
 
 .btn-group button:hover{ color:#e3bc1b; }
-hr{width:200px;
+hr{width:80px;
    margin-bottom:0px;}
 p { font-size: 0.9em; }            
 
