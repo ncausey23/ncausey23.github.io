@@ -4,19 +4,18 @@ h1 {
     text-align: center;
   	font-weight: bold;
     font-variant-caps: all-small-caps;
-}
-
-header {
-	float: center;
+    display: inline-block;
+    padding: 20px;
 }
 
 h2 {
 	font-style: 26px;
   font-family: 'Dancing Script', cursive;
   text-align: center;
-	font-style: : italic;
+	font-style: italic;
   font-variant-caps: all-small-caps;
 }
+
 h3 {
   font-family: 'Dancing Script', cursive;
   margin: 2em;
@@ -31,28 +30,27 @@ footer {
 }
 
 #register button {background-color:#000;
-                   color:black;
-                   font-family: 'Dancing Script', cursive;
-                   font-size: 2em;
-                   font-weight: bolder;
-                   font-variant-caps: all-small-caps;
-                   padding: 8px 20px;
-                   margin: 50px;
-                   float: center;
-                   position: relative;
-           border-radius:2px;
-           cursor:pointer;}
+  color:black;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2em;
+  font-weight: bolder;
+  font-variant-caps: all-small-caps;
+  padding: 8px 20px;
+  margin: 50px;
+  float: center;
+  position: relative;
+  border-radius:2px;
+  cursor:pointer;}
 .btn-group button{ background-color:transparent;
                    color:black;
                    font-family: 'Dancing Script', cursive;
                    font-size: 2em;
                    font-weight: bolder;
                    font-variant-caps: all-small-caps;
-                   font-weight: 1000px;
+                   font-weight: 900;
                    border:0;
                    padding: 8px 20px;
                    margin: 0px 80px;
-                   float: center;
                    position: relative;
                    cursor:pointer;
 }
